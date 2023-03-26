@@ -6,7 +6,7 @@ Los archivos "highscore.txt", "lastscore.txt" y "color.txt" sirven para guardar 
 También he puesto el archivo .py por si lo queréis modificar, haced lo que queráis con el código.
 Acepto sugerencias para mejorar u optimizar el código, no tengo mucha experencia en el mundo de la programación, así que por favor, no critiquéis si no es con un fin de ayudarme a continuar con el proyecto.
 Muchas gracias, ¡¡¡DISFRUTAD!!!
-#############################################################################################################################################################################
+##############################################################################################################################################################################
 ENGLISH:
 It is a simple snake game that plays on the windows terminal.
 To play it simply download all the files in one .zip, unzip it and run the .exe file.
